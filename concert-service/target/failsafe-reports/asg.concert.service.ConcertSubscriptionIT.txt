@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: asg.concert.service.ConcertSubscriptionIT
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.651 s - in asg.concert.service.ConcertSubscriptionIT

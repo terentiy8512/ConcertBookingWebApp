@@ -1,0 +1,13 @@
+/Users/terentiy/project-project-team-8/concert-common/src/main/java/asg/concert/common/dto/UserDTO.java
+/Users/terentiy/project-project-team-8/concert-common/src/main/java/asg/concert/common/dto/ConcertInfoSubscriptionDTO.java
+/Users/terentiy/project-project-team-8/concert-common/src/main/java/asg/concert/common/dto/SeatDTO.java
+/Users/terentiy/project-project-team-8/concert-common/src/main/java/asg/concert/common/dto/ConcertSummaryDTO.java
+/Users/terentiy/project-project-team-8/concert-common/src/main/java/asg/concert/common/dto/BookingRequestDTO.java
+/Users/terentiy/project-project-team-8/concert-common/src/main/java/asg/concert/common/types/Genre.java
+/Users/terentiy/project-project-team-8/concert-common/src/main/java/asg/concert/common/types/BookingStatus.java
+/Users/terentiy/project-project-team-8/concert-common/src/main/java/asg/concert/common/dto/ConcertInfoNotificationDTO.java
+/Users/terentiy/project-project-team-8/concert-common/src/main/java/asg/concert/common/jackson/LocalDateTimeSerializer.java
+/Users/terentiy/project-project-team-8/concert-common/src/main/java/asg/concert/common/dto/PerformerDTO.java
+/Users/terentiy/project-project-team-8/concert-common/src/main/java/asg/concert/common/dto/ConcertDTO.java
+/Users/terentiy/project-project-team-8/concert-common/src/main/java/asg/concert/common/jackson/LocalDateTimeDeserializer.java
+/Users/terentiy/project-project-team-8/concert-common/src/main/java/asg/concert/common/dto/BookingDTO.java
